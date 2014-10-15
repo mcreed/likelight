@@ -1,5 +1,7 @@
 ## Likelight Arduino Code
 
+.lxf files are Lego Builder Files
+
 Upload the likelight-server.php script to any php enabled server.
 
 Update LilWayne to the Facebook ID you want the like count for.
